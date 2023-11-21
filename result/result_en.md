@@ -10,7 +10,7 @@
 | 3    | indicate a logical relationship |
 | 4    | emphasize a fact |
 
-## Structure of the Dataset
+## Structure of Datasets
 
 ### train_1000
 | Sense | Quantity |
@@ -193,7 +193,7 @@
 ### Experiment 9
 
 - **Training Method**: supervised
-- **Training Set**: train_2_3
+- **Training Set**: train_2_3 （a subset dataset formed from data in train_1000 labeled as 2 and 3）
 - **Test Set**: test_100/special
 - **Number of Labels**: 2 （cái2/cái3）
 - **Model**: model_9_5

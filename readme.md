@@ -6,7 +6,7 @@ This repository supports the research on WSD of the Chinese adverb cái (才), a
 ## Repository Contents
 - `corpus/`: Contains the corpus for WSD model training and testing.
 - `model_output/`: Results from the WSD experiments.
-- `result/`: Summarizes experimental outcomes.
+- `result/`: Summarizes experimental outcomes, including both Chinese and English versions.
 
 ## Research Note
 In the initial annotation phase, cái was categorized into six senses based on dictionary definitions. However, for practical and analytical reasons, two of these senses were merged in the experiments, resulting in five distinct categories in the final analysis. This process and the reason are detailed in the paper. Below is a table illustrating how the senses were reclassified:
